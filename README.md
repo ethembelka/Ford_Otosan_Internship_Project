@@ -1,2 +1,2 @@
-# Staj-1-Ford-
+# Ford Otosan Intership Project
 Yazılım Stajı
